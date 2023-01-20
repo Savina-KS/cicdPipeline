@@ -1,0 +1,5 @@
+com\example\studentdetails\service\StudentService.class
+com\example\studentdetails\dao\StudentDao.class
+com\example\studentdetails\contoller\StudentController.class
+com\example\studentdetails\entity\Student.class
+com\example\studentdetails\StudentdetailsApplication.class
